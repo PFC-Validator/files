@@ -1,0 +1,23 @@
+{
+  "relayers": {
+    "SmartStake": [
+      "Smart Stake.*"
+    ],
+    "cosmosrescue": [
+      ".*cosmosrescue.*"
+    ],
+    "CryptoCrew": [
+      "Crypto Crew.*",
+      ".*CryptoCrew.*"
+    ],
+    "Bro_n_Bro": [
+      ".*Bro_n_Bro.*"
+    ],
+    "Informal": [
+      "Connect the Interchain. Stake with Informal.*"
+    ],
+    "Lavender Five": [
+      ".*Lavender\\.Five Nodes 🐝.*"
+    ]
+  }
+}

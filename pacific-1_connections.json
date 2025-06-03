@@ -1,0 +1,2959 @@
+{
+  "chain": "pacific-1",
+  "clients": {
+    "07-tendermint-141": "allora-mainnet-1",
+    "07-tendermint-96": "nois-testnet-005",
+    "07-tendermint-111": "agoric-3",
+    "07-tendermint-143": "diamond-1",
+    "07-tendermint-146": "diamond-1",
+    "07-tendermint-64": "injective-1",
+    "07-tendermint-114": "carbon-1",
+    "07-tendermint-88": "nois-testnet-005",
+    "07-tendermint-108": "vota-ash",
+    "07-tendermint-76": "nois-testnet-005",
+    "07-tendermint-24": "neutron-1",
+    "07-tendermint-87": "nois-testnet-005",
+    "07-tendermint-33": "centauri-1",
+    "07-tendermint-126": "carbon-1",
+    "07-tendermint-17": "migaloo-1",
+    "07-tendermint-41": "agoric-3",
+    "07-tendermint-89": "nois-testnet-005",
+    "07-tendermint-130": "umee-1",
+    "07-tendermint-144": "diamond-1",
+    "07-tendermint-78": "nois-testnet-005",
+    "07-tendermint-70": "nois-testnet-005",
+    "07-tendermint-101": "nois-testnet-005",
+    "07-tendermint-23": "neutron-1",
+    "07-tendermint-9": "phoenix-1",
+    "07-tendermint-95": "nois-testnet-005",
+    "07-tendermint-16": "migaloo-1",
+    "07-tendermint-72": "nois-testnet-005",
+    "07-tendermint-140": "allora-mainnet-1",
+    "07-tendermint-31": "centauri-1",
+    "07-tendermint-82": "nois-testnet-005",
+    "07-tendermint-27": "neutron-1",
+    "07-tendermint-132": "umee-1",
+    "07-tendermint-75": "nois-testnet-005",
+    "07-tendermint-119": "umee-1",
+    "07-tendermint-52": "injective-1",
+    "07-tendermint-40": "noble-1",
+    "07-tendermint-104": "nois-testnet-005",
+    "07-tendermint-91": "nois-testnet-005",
+    "07-tendermint-112": "agoric-3",
+    "07-tendermint-113": "carbon-1",
+    "07-tendermint-22": "migaloo-1",
+    "07-tendermint-84": "nois-testnet-005",
+    "07-tendermint-92": "nois-testnet-005",
+    "07-tendermint-133": "diamond-1",
+    "07-tendermint-2": "osmosis-1",
+    "07-tendermint-5": "columbus-5",
+    "07-tendermint-107": "vota-ash",
+    "07-tendermint-118": "umee-1",
+    "07-tendermint-125": "carbon-1",
+    "07-tendermint-102": "nois-testnet-005",
+    "07-tendermint-26": "neutron-1",
+    "07-tendermint-35": "kava_2222-10",
+    "07-tendermint-128": "umee-1",
+    "07-tendermint-18": "stride-1",
+    "07-tendermint-71": "nois-testnet-005",
+    "07-tendermint-137": "diamond-1",
+    "07-tendermint-122": "neutron-1",
+    "07-tendermint-93": "nois-testnet-005",
+    "07-tendermint-136": "diamond-1",
+    "07-tendermint-66": "migaloo-1",
+    "07-tendermint-98": "nois-testnet-005",
+    "07-tendermint-15": "phoenix-1",
+    "07-tendermint-83": "nois-testnet-005",
+    "07-tendermint-115": "carbon-1",
+    "07-tendermint-124": "carbon-1",
+    "07-tendermint-109": "vota-ash",
+    "07-tendermint-30": "centauri-1",
+    "07-tendermint-110": "vota-ash",
+    "07-tendermint-116": "umee-1",
+    "07-tendermint-54": "injective-1",
+    "07-tendermint-60": "injective-1",
+    "07-tendermint-63": "injective-1",
+    "07-tendermint-58": "injective-1",
+    "07-tendermint-8": "axelar-dojo-1",
+    "07-tendermint-51": "injective-1",
+    "07-tendermint-61": "injective-1",
+    "07-tendermint-36": "kava_2222-10",
+    "07-tendermint-79": "nois-testnet-005",
+    "07-tendermint-3": "cosmoshub-4",
+    "07-tendermint-1": "osmosis-1",
+    "07-tendermint-121": "neutron-1",
+    "07-tendermint-135": "diamond-1",
+    "07-tendermint-21": "planq_7070-2",
+    "07-tendermint-43": "agoric-3",
+    "07-tendermint-55": "injective-1",
+    "07-tendermint-100": "nois-testnet-005",
+    "07-tendermint-28": "centauri-1",
+    "07-tendermint-65": "vota-ash",
+    "07-tendermint-11": "wormchain",
+    "07-tendermint-85": "nois-testnet-005",
+    "07-tendermint-117": "umee-1",
+    "07-tendermint-99": "nois-testnet-005",
+    "07-tendermint-32": "centauri-1",
+    "07-tendermint-123": "neutron-1",
+    "07-tendermint-34": "kaiyo-1",
+    "07-tendermint-4": "columbus-5",
+    "07-tendermint-48": "injective-1",
+    "07-tendermint-69": "nois-testnet-005",
+    "07-tendermint-77": "nois-testnet-005",
+    "07-tendermint-73": "nois-testnet-005",
+    "07-tendermint-25": "neutron-1",
+    "07-tendermint-56": "injective-1",
+    "07-tendermint-103": "nois-testnet-005",
+    "07-tendermint-142": "diamond-1",
+    "07-tendermint-45": "noble-1",
+    "07-tendermint-80": "nois-testnet-005",
+    "07-tendermint-129": "umee-1",
+    "07-tendermint-46": "coreum-mainnet-1",
+    "07-tendermint-59": "osmosis-1",
+    "07-tendermint-120": "umee-1",
+    "07-tendermint-14": "phoenix-1",
+    "07-tendermint-94": "nois-testnet-005",
+    "07-tendermint-13": "wormchain",
+    "07-tendermint-29": "centauri-1",
+    "07-tendermint-12": "wormchain",
+    "07-tendermint-47": "coreum-mainnet-1",
+    "07-tendermint-127": "carbon-1",
+    "07-tendermint-67": "nois-testnet-005",
+    "07-tendermint-19": "centauri-1",
+    "07-tendermint-105": "nois-testnet-005",
+    "07-tendermint-20": "centauri-1",
+    "07-tendermint-37": "kava_2222-10",
+    "07-tendermint-39": "noble-1",
+    "07-tendermint-49": "injective-1",
+    "07-tendermint-62": "injective-1",
+    "07-tendermint-106": "nois-1",
+    "07-tendermint-50": "injective-1",
+    "07-tendermint-10": "phoenix-1",
+    "07-tendermint-131": "umee-1",
+    "07-tendermint-38": "kava_2222-10",
+    "07-tendermint-42": "agoric-3",
+    "07-tendermint-7": "columbus-5",
+    "07-tendermint-44": "agoric-3",
+    "07-tendermint-81": "nois-testnet-005",
+    "07-tendermint-90": "nois-testnet-005",
+    "07-tendermint-145": "diamond-1",
+    "07-tendermint-0": "osmosis-1",
+    "07-tendermint-6": "columbus-5",
+    "07-tendermint-86": "nois-testnet-005",
+    "07-tendermint-139": "osmosis-1",
+    "07-tendermint-74": "nois-testnet-005",
+    "07-tendermint-134": "diamond-1",
+    "07-tendermint-97": "nois-testnet-005",
+    "07-tendermint-138": "osmosis-1",
+    "07-tendermint-53": "injective-1",
+    "07-tendermint-68": "nois-testnet-005"
+  },
+  "connection_chain_client_pair": {
+    "connection-170": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-37": {
+      "chain": "noble-1",
+      "client": "07-tendermint-39"
+    },
+    "connection-3": {
+      "chain": "phoenix-1",
+      "client": "07-tendermint-9"
+    },
+    "connection-133": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-83": {
+      "chain": "injective-1",
+      "client": "07-tendermint-58"
+    },
+    "connection-67": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-84": {
+      "chain": "injective-1",
+      "client": "07-tendermint-58"
+    },
+    "connection-132": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-10": {
+      "chain": "migaloo-1",
+      "client": "07-tendermint-17"
+    },
+    "connection-63": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-14": {
+      "chain": "neutron-1",
+      "client": "07-tendermint-26"
+    },
+    "connection-103": {
+      "chain": "injective-1",
+      "client": "07-tendermint-63"
+    },
+    "connection-72": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-161": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-0": {
+      "chain": "osmosis-1",
+      "client": "07-tendermint-2"
+    },
+    "connection-100": {
+      "chain": "injective-1",
+      "client": "07-tendermint-63"
+    },
+    "connection-145": {
+      "chain": "nois-1",
+      "client": "07-tendermint-106"
+    },
+    "connection-43": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-101": {
+      "chain": "injective-1",
+      "client": "07-tendermint-63"
+    },
+    "connection-76": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-44"
+    },
+    "connection-20": {
+      "chain": "osmosis-1",
+      "client": "07-tendermint-0"
+    },
+    "connection-77": {
+      "chain": "noble-1",
+      "client": "07-tendermint-45"
+    },
+    "connection-151": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-109"
+    },
+    "connection-124": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-142": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-102"
+    },
+    "connection-7": {
+      "chain": "wormchain",
+      "client": "07-tendermint-13"
+    },
+    "connection-118": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-122": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-1": {
+      "chain": "cosmoshub-4",
+      "client": "07-tendermint-3"
+    },
+    "connection-167": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-93": {
+      "chain": "injective-1",
+      "client": "07-tendermint-60"
+    },
+    "connection-157": {
+      "chain": "neutron-1",
+      "client": "07-tendermint-123"
+    },
+    "connection-80": {
+      "chain": "injective-1",
+      "client": "07-tendermint-58"
+    },
+    "connection-169": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-30": {
+      "chain": "kava_2222-10",
+      "client": "07-tendermint-37"
+    },
+    "connection-160": {
+      "chain": "diamond-1",
+      "client": "07-tendermint-135"
+    },
+    "connection-40": {
+      "chain": "noble-1",
+      "client": "07-tendermint-40"
+    },
+    "connection-158": {
+      "chain": "carbon-1",
+      "client": "07-tendermint-126"
+    },
+    "connection-38": {
+      "chain": "noble-1",
+      "client": "07-tendermint-39"
+    },
+    "connection-16": {
+      "chain": "neutron-1",
+      "client": "07-tendermint-27"
+    },
+    "connection-136": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-127": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-42": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-28": {
+      "chain": "kava_2222-10",
+      "client": "07-tendermint-37"
+    },
+    "connection-97": {
+      "chain": "injective-1",
+      "client": "07-tendermint-63"
+    },
+    "connection-24": {
+      "chain": "kaiyo-1",
+      "client": "07-tendermint-34"
+    },
+    "connection-56": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-149": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-107"
+    },
+    "connection-6": {
+      "chain": "wormchain",
+      "client": "07-tendermint-12"
+    },
+    "connection-166": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-120": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-111": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-65"
+    },
+    "connection-90": {
+      "chain": "injective-1",
+      "client": "07-tendermint-60"
+    },
+    "connection-106": {
+      "chain": "injective-1",
+      "client": "07-tendermint-64"
+    },
+    "connection-11": {
+      "chain": "stride-1",
+      "client": "07-tendermint-18"
+    },
+    "connection-73": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-174": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-107": {
+      "chain": "injective-1",
+      "client": "07-tendermint-64"
+    },
+    "connection-164": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-139": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-89": {
+      "chain": "injective-1",
+      "client": "07-tendermint-60"
+    },
+    "connection-34": {
+      "chain": "noble-1",
+      "client": "07-tendermint-39"
+    },
+    "connection-141": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-101"
+    },
+    "connection-147": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-107"
+    },
+    "connection-99": {
+      "chain": "injective-1",
+      "client": "07-tendermint-63"
+    },
+    "connection-54": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-66": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-81": {
+      "chain": "injective-1",
+      "client": "07-tendermint-58"
+    },
+    "connection-12": {
+      "chain": "planq_7070-2",
+      "client": "07-tendermint-21"
+    },
+    "connection-129": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-110": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-65"
+    },
+    "connection-75": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-44"
+    },
+    "connection-71": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-48": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-15": {
+      "chain": "neutron-1",
+      "client": "07-tendermint-26"
+    },
+    "connection-62": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-9": {
+      "chain": "phoenix-1",
+      "client": "07-tendermint-15"
+    },
+    "connection-156": {
+      "chain": "neutron-1",
+      "client": "07-tendermint-121"
+    },
+    "connection-154": {
+      "chain": "umee-1",
+      "client": "07-tendermint-120"
+    },
+    "connection-55": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-153": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-109"
+    },
+    "connection-68": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-114": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-159": {
+      "chain": "diamond-1",
+      "client": "07-tendermint-137"
+    },
+    "connection-98": {
+      "chain": "injective-1",
+      "client": "07-tendermint-63"
+    },
+    "connection-140": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-100"
+    },
+    "connection-112": {
+      "chain": "migaloo-1",
+      "client": "07-tendermint-66"
+    },
+    "connection-27": {
+      "chain": "kava_2222-10",
+      "client": "07-tendermint-37"
+    },
+    "connection-35": {
+      "chain": "noble-1",
+      "client": "07-tendermint-39"
+    },
+    "connection-17": {
+      "chain": "neutron-1",
+      "client": "07-tendermint-27"
+    },
+    "connection-134": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-57": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-105": {
+      "chain": "injective-1",
+      "client": "07-tendermint-64"
+    },
+    "connection-94": {
+      "chain": "injective-1",
+      "client": "07-tendermint-60"
+    },
+    "connection-19": {
+      "chain": "osmosis-1",
+      "client": "07-tendermint-0"
+    },
+    "connection-64": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-113": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-137": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-104": {
+      "chain": "injective-1",
+      "client": "07-tendermint-64"
+    },
+    "connection-61": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-47": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-18": {
+      "chain": "neutron-1",
+      "client": "07-tendermint-27"
+    },
+    "connection-108": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-65"
+    },
+    "connection-78": {
+      "chain": "coreum-mainnet-1",
+      "client": "07-tendermint-46"
+    },
+    "connection-46": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-53": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-33": {
+      "chain": "kava_2222-10",
+      "client": "07-tendermint-38"
+    },
+    "connection-70": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-41": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-95": {
+      "chain": "injective-1",
+      "client": "07-tendermint-63"
+    },
+    "connection-163": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-45": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-87": {
+      "chain": "injective-1",
+      "client": "07-tendermint-58"
+    },
+    "connection-172": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-88": {
+      "chain": "injective-1",
+      "client": "07-tendermint-58"
+    },
+    "connection-125": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-25": {
+      "chain": "kava_2222-10",
+      "client": "07-tendermint-35"
+    },
+    "connection-117": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-115": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-60": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-74": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-49": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-171": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-143": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-103"
+    },
+    "connection-128": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-69": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-23": {
+      "chain": "centauri-1",
+      "client": "07-tendermint-31"
+    },
+    "connection-4": {
+      "chain": "phoenix-1",
+      "client": "07-tendermint-10"
+    },
+    "connection-146": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-107"
+    },
+    "connection-82": {
+      "chain": "injective-1",
+      "client": "07-tendermint-58"
+    },
+    "connection-5": {
+      "chain": "wormchain",
+      "client": "07-tendermint-11"
+    },
+    "connection-155": {
+      "chain": "umee-1",
+      "client": "07-tendermint-120"
+    },
+    "connection-175": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-31": {
+      "chain": "kava_2222-10",
+      "client": "07-tendermint-37"
+    },
+    "connection-8": {
+      "chain": "phoenix-1",
+      "client": "07-tendermint-14"
+    },
+    "connection-65": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-44": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-26": {
+      "chain": "kava_2222-10",
+      "client": "07-tendermint-37"
+    },
+    "connection-123": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-22": {
+      "chain": "centauri-1",
+      "client": "07-tendermint-31"
+    },
+    "connection-13": {
+      "chain": "migaloo-1",
+      "client": "07-tendermint-22"
+    },
+    "connection-126": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-173": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-58": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-138": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-130": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-102": {
+      "chain": "injective-1",
+      "client": "07-tendermint-63"
+    },
+    "connection-96": {
+      "chain": "injective-1",
+      "client": "07-tendermint-63"
+    },
+    "connection-39": {
+      "chain": "noble-1",
+      "client": "07-tendermint-40"
+    },
+    "connection-52": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-91": {
+      "chain": "injective-1",
+      "client": "07-tendermint-60"
+    },
+    "connection-109": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-65"
+    },
+    "connection-150": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-107"
+    },
+    "connection-148": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-107"
+    },
+    "connection-21": {
+      "chain": "osmosis-1",
+      "client": "07-tendermint-0"
+    },
+    "connection-135": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-121": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-79": {
+      "chain": "coreum-mainnet-1",
+      "client": "07-tendermint-47"
+    },
+    "connection-85": {
+      "chain": "injective-1",
+      "client": "07-tendermint-58"
+    },
+    "connection-168": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-92": {
+      "chain": "injective-1",
+      "client": "07-tendermint-60"
+    },
+    "connection-131": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-97"
+    },
+    "connection-119": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-51": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-59": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-144": {
+      "chain": "nois-1",
+      "client": "07-tendermint-106"
+    },
+    "connection-50": {
+      "chain": "agoric-3",
+      "client": "07-tendermint-41"
+    },
+    "connection-152": {
+      "chain": "vota-ash",
+      "client": "07-tendermint-109"
+    },
+    "connection-86": {
+      "chain": "injective-1",
+      "client": "07-tendermint-58"
+    },
+    "connection-116": {
+      "chain": "nois-testnet-005",
+      "client": "07-tendermint-72"
+    },
+    "connection-162": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-2": {
+      "chain": "axelar-dojo-1",
+      "client": "07-tendermint-8"
+    },
+    "connection-29": {
+      "chain": "kava_2222-10",
+      "client": "07-tendermint-37"
+    },
+    "connection-165": {
+      "chain": "allora-mainnet-1",
+      "client": "07-tendermint-141"
+    },
+    "connection-36": {
+      "chain": "noble-1",
+      "client": "07-tendermint-39"
+    },
+    "connection-32": {
+      "chain": "kava_2222-10",
+      "client": "07-tendermint-37"
+    }
+  },
+  "chain_client_connection_pair": {
+    "allora-mainnet-1": [
+      {
+        "connection": "connection-170",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-161",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-167",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-169",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-166",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-174",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-164",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-163",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-172",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-171",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-175",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-173",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-168",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-162",
+        "client": "07-tendermint-141"
+      },
+      {
+        "connection": "connection-165",
+        "client": "07-tendermint-141"
+      }
+    ],
+    "wormchain": [
+      {
+        "connection": "connection-7",
+        "client": "07-tendermint-13"
+      },
+      {
+        "connection": "connection-6",
+        "client": "07-tendermint-12"
+      },
+      {
+        "connection": "connection-5",
+        "client": "07-tendermint-11"
+      }
+    ],
+    "planq_7070-2": [
+      {
+        "connection": "connection-12",
+        "client": "07-tendermint-21"
+      }
+    ],
+    "neutron-1": [
+      {
+        "connection": "connection-14",
+        "client": "07-tendermint-26"
+      },
+      {
+        "connection": "connection-157",
+        "client": "07-tendermint-123"
+      },
+      {
+        "connection": "connection-16",
+        "client": "07-tendermint-27"
+      },
+      {
+        "connection": "connection-15",
+        "client": "07-tendermint-26"
+      },
+      {
+        "connection": "connection-156",
+        "client": "07-tendermint-121"
+      },
+      {
+        "connection": "connection-17",
+        "client": "07-tendermint-27"
+      },
+      {
+        "connection": "connection-18",
+        "client": "07-tendermint-27"
+      }
+    ],
+    "agoric-3": [
+      {
+        "connection": "connection-67",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-63",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-72",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-43",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-76",
+        "client": "07-tendermint-44"
+      },
+      {
+        "connection": "connection-42",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-56",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-73",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-54",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-66",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-75",
+        "client": "07-tendermint-44"
+      },
+      {
+        "connection": "connection-71",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-48",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-62",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-55",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-68",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-57",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-64",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-61",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-47",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-46",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-53",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-70",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-41",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-45",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-60",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-74",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-49",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-69",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-65",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-44",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-58",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-52",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-51",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-59",
+        "client": "07-tendermint-41"
+      },
+      {
+        "connection": "connection-50",
+        "client": "07-tendermint-41"
+      }
+    ],
+    "kaiyo-1": [
+      {
+        "connection": "connection-24",
+        "client": "07-tendermint-34"
+      }
+    ],
+    "umee-1": [
+      {
+        "connection": "connection-154",
+        "client": "07-tendermint-120"
+      },
+      {
+        "connection": "connection-155",
+        "client": "07-tendermint-120"
+      }
+    ],
+    "nois-1": [
+      {
+        "connection": "connection-145",
+        "client": "07-tendermint-106"
+      },
+      {
+        "connection": "connection-144",
+        "client": "07-tendermint-106"
+      }
+    ],
+    "phoenix-1": [
+      {
+        "connection": "connection-3",
+        "client": "07-tendermint-9"
+      },
+      {
+        "connection": "connection-9",
+        "client": "07-tendermint-15"
+      },
+      {
+        "connection": "connection-4",
+        "client": "07-tendermint-10"
+      },
+      {
+        "connection": "connection-8",
+        "client": "07-tendermint-14"
+      }
+    ],
+    "injective-1": [
+      {
+        "connection": "connection-83",
+        "client": "07-tendermint-58"
+      },
+      {
+        "connection": "connection-84",
+        "client": "07-tendermint-58"
+      },
+      {
+        "connection": "connection-103",
+        "client": "07-tendermint-63"
+      },
+      {
+        "connection": "connection-100",
+        "client": "07-tendermint-63"
+      },
+      {
+        "connection": "connection-101",
+        "client": "07-tendermint-63"
+      },
+      {
+        "connection": "connection-93",
+        "client": "07-tendermint-60"
+      },
+      {
+        "connection": "connection-80",
+        "client": "07-tendermint-58"
+      },
+      {
+        "connection": "connection-97",
+        "client": "07-tendermint-63"
+      },
+      {
+        "connection": "connection-90",
+        "client": "07-tendermint-60"
+      },
+      {
+        "connection": "connection-106",
+        "client": "07-tendermint-64"
+      },
+      {
+        "connection": "connection-107",
+        "client": "07-tendermint-64"
+      },
+      {
+        "connection": "connection-89",
+        "client": "07-tendermint-60"
+      },
+      {
+        "connection": "connection-99",
+        "client": "07-tendermint-63"
+      },
+      {
+        "connection": "connection-81",
+        "client": "07-tendermint-58"
+      },
+      {
+        "connection": "connection-98",
+        "client": "07-tendermint-63"
+      },
+      {
+        "connection": "connection-105",
+        "client": "07-tendermint-64"
+      },
+      {
+        "connection": "connection-94",
+        "client": "07-tendermint-60"
+      },
+      {
+        "connection": "connection-104",
+        "client": "07-tendermint-64"
+      },
+      {
+        "connection": "connection-95",
+        "client": "07-tendermint-63"
+      },
+      {
+        "connection": "connection-87",
+        "client": "07-tendermint-58"
+      },
+      {
+        "connection": "connection-88",
+        "client": "07-tendermint-58"
+      },
+      {
+        "connection": "connection-82",
+        "client": "07-tendermint-58"
+      },
+      {
+        "connection": "connection-102",
+        "client": "07-tendermint-63"
+      },
+      {
+        "connection": "connection-96",
+        "client": "07-tendermint-63"
+      },
+      {
+        "connection": "connection-91",
+        "client": "07-tendermint-60"
+      },
+      {
+        "connection": "connection-85",
+        "client": "07-tendermint-58"
+      },
+      {
+        "connection": "connection-92",
+        "client": "07-tendermint-60"
+      },
+      {
+        "connection": "connection-86",
+        "client": "07-tendermint-58"
+      }
+    ],
+    "osmosis-1": [
+      {
+        "connection": "connection-0",
+        "client": "07-tendermint-2"
+      },
+      {
+        "connection": "connection-20",
+        "client": "07-tendermint-0"
+      },
+      {
+        "connection": "connection-19",
+        "client": "07-tendermint-0"
+      },
+      {
+        "connection": "connection-21",
+        "client": "07-tendermint-0"
+      }
+    ],
+    "noble-1": [
+      {
+        "connection": "connection-37",
+        "client": "07-tendermint-39"
+      },
+      {
+        "connection": "connection-77",
+        "client": "07-tendermint-45"
+      },
+      {
+        "connection": "connection-40",
+        "client": "07-tendermint-40"
+      },
+      {
+        "connection": "connection-38",
+        "client": "07-tendermint-39"
+      },
+      {
+        "connection": "connection-34",
+        "client": "07-tendermint-39"
+      },
+      {
+        "connection": "connection-35",
+        "client": "07-tendermint-39"
+      },
+      {
+        "connection": "connection-39",
+        "client": "07-tendermint-40"
+      },
+      {
+        "connection": "connection-36",
+        "client": "07-tendermint-39"
+      }
+    ],
+    "coreum-mainnet-1": [
+      {
+        "connection": "connection-78",
+        "client": "07-tendermint-46"
+      },
+      {
+        "connection": "connection-79",
+        "client": "07-tendermint-47"
+      }
+    ],
+    "carbon-1": [
+      {
+        "connection": "connection-158",
+        "client": "07-tendermint-126"
+      }
+    ],
+    "kava_2222-10": [
+      {
+        "connection": "connection-30",
+        "client": "07-tendermint-37"
+      },
+      {
+        "connection": "connection-28",
+        "client": "07-tendermint-37"
+      },
+      {
+        "connection": "connection-27",
+        "client": "07-tendermint-37"
+      },
+      {
+        "connection": "connection-33",
+        "client": "07-tendermint-38"
+      },
+      {
+        "connection": "connection-25",
+        "client": "07-tendermint-35"
+      },
+      {
+        "connection": "connection-31",
+        "client": "07-tendermint-37"
+      },
+      {
+        "connection": "connection-26",
+        "client": "07-tendermint-37"
+      },
+      {
+        "connection": "connection-29",
+        "client": "07-tendermint-37"
+      },
+      {
+        "connection": "connection-32",
+        "client": "07-tendermint-37"
+      }
+    ],
+    "cosmoshub-4": [
+      {
+        "connection": "connection-1",
+        "client": "07-tendermint-3"
+      }
+    ],
+    "axelar-dojo-1": [
+      {
+        "connection": "connection-2",
+        "client": "07-tendermint-8"
+      }
+    ],
+    "diamond-1": [
+      {
+        "connection": "connection-160",
+        "client": "07-tendermint-135"
+      },
+      {
+        "connection": "connection-159",
+        "client": "07-tendermint-137"
+      }
+    ],
+    "nois-testnet-005": [
+      {
+        "connection": "connection-133",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-132",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-124",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-142",
+        "client": "07-tendermint-102"
+      },
+      {
+        "connection": "connection-118",
+        "client": "07-tendermint-72"
+      },
+      {
+        "connection": "connection-122",
+        "client": "07-tendermint-72"
+      },
+      {
+        "connection": "connection-136",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-127",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-120",
+        "client": "07-tendermint-72"
+      },
+      {
+        "connection": "connection-139",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-141",
+        "client": "07-tendermint-101"
+      },
+      {
+        "connection": "connection-129",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-114",
+        "client": "07-tendermint-72"
+      },
+      {
+        "connection": "connection-140",
+        "client": "07-tendermint-100"
+      },
+      {
+        "connection": "connection-134",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-113",
+        "client": "07-tendermint-72"
+      },
+      {
+        "connection": "connection-137",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-125",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-117",
+        "client": "07-tendermint-72"
+      },
+      {
+        "connection": "connection-115",
+        "client": "07-tendermint-72"
+      },
+      {
+        "connection": "connection-143",
+        "client": "07-tendermint-103"
+      },
+      {
+        "connection": "connection-128",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-123",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-126",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-138",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-130",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-135",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-121",
+        "client": "07-tendermint-72"
+      },
+      {
+        "connection": "connection-131",
+        "client": "07-tendermint-97"
+      },
+      {
+        "connection": "connection-119",
+        "client": "07-tendermint-72"
+      },
+      {
+        "connection": "connection-116",
+        "client": "07-tendermint-72"
+      }
+    ],
+    "migaloo-1": [
+      {
+        "connection": "connection-10",
+        "client": "07-tendermint-17"
+      },
+      {
+        "connection": "connection-112",
+        "client": "07-tendermint-66"
+      },
+      {
+        "connection": "connection-13",
+        "client": "07-tendermint-22"
+      }
+    ],
+    "vota-ash": [
+      {
+        "connection": "connection-151",
+        "client": "07-tendermint-109"
+      },
+      {
+        "connection": "connection-149",
+        "client": "07-tendermint-107"
+      },
+      {
+        "connection": "connection-111",
+        "client": "07-tendermint-65"
+      },
+      {
+        "connection": "connection-147",
+        "client": "07-tendermint-107"
+      },
+      {
+        "connection": "connection-110",
+        "client": "07-tendermint-65"
+      },
+      {
+        "connection": "connection-153",
+        "client": "07-tendermint-109"
+      },
+      {
+        "connection": "connection-108",
+        "client": "07-tendermint-65"
+      },
+      {
+        "connection": "connection-146",
+        "client": "07-tendermint-107"
+      },
+      {
+        "connection": "connection-109",
+        "client": "07-tendermint-65"
+      },
+      {
+        "connection": "connection-150",
+        "client": "07-tendermint-107"
+      },
+      {
+        "connection": "connection-148",
+        "client": "07-tendermint-107"
+      },
+      {
+        "connection": "connection-152",
+        "client": "07-tendermint-109"
+      }
+    ],
+    "stride-1": [
+      {
+        "connection": "connection-11",
+        "client": "07-tendermint-18"
+      }
+    ],
+    "centauri-1": [
+      {
+        "connection": "connection-23",
+        "client": "07-tendermint-31"
+      },
+      {
+        "connection": "connection-22",
+        "client": "07-tendermint-31"
+      }
+    ]
+  },
+  "connection_channels": {
+    "connection-155": [
+      {
+        "client_id": "07-tendermint-120",
+        "connection_id": "connection-155",
+        "channel_id": "channel-65",
+        "port": "transfer",
+        "counter_channel_id": "channel-124",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-78": [
+      {
+        "client_id": "07-tendermint-46",
+        "connection_id": "connection-78",
+        "channel_id": "channel-46",
+        "port": "transfer",
+        "counter_channel_id": "channel-23",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-77": [
+      {
+        "client_id": "07-tendermint-45",
+        "connection_id": "connection-77",
+        "channel_id": "channel-44",
+        "port": "transfer",
+        "counter_channel_id": "channel-38",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-45",
+        "connection_id": "connection-77",
+        "channel_id": "channel-45",
+        "port": "transfer",
+        "counter_channel_id": "channel-39",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-75": [
+      {
+        "client_id": "07-tendermint-44",
+        "connection_id": "connection-75",
+        "channel_id": "channel-43",
+        "port": "transfer",
+        "counter_channel_id": "channel-70",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-33": [
+      {
+        "client_id": "07-tendermint-38",
+        "connection_id": "connection-33",
+        "channel_id": "channel-18",
+        "port": "transfer",
+        "counter_channel_id": "channel-132",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-13": [
+      {
+        "client_id": "07-tendermint-22",
+        "connection_id": "connection-13",
+        "channel_id": "channel-14",
+        "port": "transfer",
+        "counter_channel_id": "channel-57",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-112": [
+      {
+        "client_id": "07-tendermint-66",
+        "connection_id": "connection-112",
+        "channel_id": "channel-56",
+        "port": "transfer",
+        "counter_channel_id": "channel-77",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-2": [
+      {
+        "client_id": "07-tendermint-8",
+        "connection_id": "connection-2",
+        "channel_id": "channel-2",
+        "port": "transfer",
+        "counter_channel_id": "channel-103",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-145": [
+      {
+        "client_id": "07-tendermint-106",
+        "connection_id": "connection-145",
+        "channel_id": "channel-62",
+        "port": "wasm.sei1n5tpvlpt68metz4etankcw6t76nrg57tyglvky8swgd7wx3w42wquj2qqe",
+        "counter_channel_id": "channel-45",
+        "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+      },
+      {
+        "client_id": "07-tendermint-106",
+        "connection_id": "connection-145",
+        "channel_id": "channel-63",
+        "port": "wasm.sei1n5tpvlpt68metz4etankcw6t76nrg57tyglvky8swgd7wx3w42wquj2qqe",
+        "counter_channel_id": "",
+        "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+      }
+    ],
+    "connection-24": [
+      {
+        "client_id": "07-tendermint-34",
+        "connection_id": "connection-24",
+        "channel_id": "channel-16",
+        "port": "transfer",
+        "counter_channel_id": "channel-103",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-11": [
+      {
+        "client_id": "07-tendermint-18",
+        "connection_id": "connection-11",
+        "channel_id": "channel-11",
+        "port": "transfer",
+        "counter_channel_id": "channel-149",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-18",
+        "connection_id": "connection-11",
+        "channel_id": "channel-12",
+        "port": "transfer",
+        "counter_channel_id": "channel-149",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-0": [
+      {
+        "client_id": "07-tendermint-2",
+        "connection_id": "connection-0",
+        "channel_id": "channel-0",
+        "port": "transfer",
+        "counter_channel_id": "channel-782",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-8": [
+      {
+        "client_id": "07-tendermint-14",
+        "connection_id": "connection-8",
+        "channel_id": "channel-6",
+        "port": "transfer",
+        "counter_channel_id": "channel-169",
+        "counter_port": "wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce"
+      }
+    ],
+    "connection-39": [
+      {
+        "client_id": "07-tendermint-40",
+        "connection_id": "connection-39",
+        "channel_id": "channel-41",
+        "port": "transfer",
+        "counter_channel_id": "channel-29",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-40",
+        "connection_id": "connection-39",
+        "channel_id": "channel-42",
+        "port": "transfer",
+        "counter_channel_id": "channel-29",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-159": [
+      {
+        "client_id": "07-tendermint-137",
+        "connection_id": "connection-159",
+        "channel_id": "channel-77",
+        "port": "transfer",
+        "counter_channel_id": "channel-2",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-158": [
+      {
+        "client_id": "07-tendermint-126",
+        "connection_id": "connection-158",
+        "channel_id": "channel-73",
+        "port": "transfer",
+        "counter_channel_id": "channel-47",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-6": [
+      {
+        "client_id": "07-tendermint-12",
+        "connection_id": "connection-6",
+        "channel_id": "channel-4",
+        "port": "wasm.sei1gjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn",
+        "counter_channel_id": "channel-0",
+        "counter_port": "wasm.wormhole1wkwy0xh89ksdgj9hr347dyd2dw7zesmtrue6kfzyml4vdtz6e5ws2y050r"
+      }
+    ],
+    "connection-89": [
+      {
+        "client_id": "07-tendermint-60",
+        "connection_id": "connection-89",
+        "channel_id": "channel-48",
+        "port": "transfer",
+        "counter_channel_id": "channel-178",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-60",
+        "connection_id": "connection-89",
+        "channel_id": "channel-49",
+        "port": "transfer",
+        "counter_channel_id": "channel-178",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-60",
+        "connection_id": "connection-89",
+        "channel_id": "channel-50",
+        "port": "transfer",
+        "counter_channel_id": "channel-179",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-60",
+        "connection_id": "connection-89",
+        "channel_id": "channel-51",
+        "port": "transfer",
+        "counter_channel_id": "channel-178",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-60",
+        "connection_id": "connection-89",
+        "channel_id": "channel-52",
+        "port": "transfer",
+        "counter_channel_id": "channel-179",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-60",
+        "connection_id": "connection-89",
+        "channel_id": "channel-53",
+        "port": "transfer",
+        "counter_channel_id": "channel-179",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-4": [
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-3",
+        "port": "transfer",
+        "counter_channel_id": "channel-158",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-8",
+        "port": "transfer",
+        "counter_channel_id": "channel-171",
+        "counter_port": "wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-9",
+        "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+        "counter_channel_id": "channel-172",
+        "counter_port": "wasm.terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-19",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-20",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-21",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-22",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-23",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-24",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-25",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-26",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-27",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-28",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-29",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-30",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-242",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-31",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-32",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-33",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-34",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-35",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-36",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-37",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-38",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-39",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      },
+      {
+        "client_id": "07-tendermint-10",
+        "connection_id": "connection-4",
+        "channel_id": "channel-40",
+        "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+        "counter_channel_id": "channel-244",
+        "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+      }
+    ],
+    "connection-12": [
+      {
+        "client_id": "07-tendermint-21",
+        "connection_id": "connection-12",
+        "channel_id": "channel-13",
+        "port": "transfer",
+        "counter_channel_id": "channel-59",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-157": [
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-66",
+        "port": "transfer",
+        "counter_channel_id": "channel-2016",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-67",
+        "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+        "counter_channel_id": "channel-2107",
+        "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+      },
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-68",
+        "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+        "counter_channel_id": "channel-2108",
+        "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+      },
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-69",
+        "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+        "counter_channel_id": "channel-2109",
+        "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+      },
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-70",
+        "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+        "counter_channel_id": "channel-2110",
+        "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+      },
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-71",
+        "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+        "counter_channel_id": "channel-2110",
+        "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+      },
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-72",
+        "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+        "counter_channel_id": "channel-2110",
+        "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+      },
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-74",
+        "port": "wasm.sei1dzq5pg86035rpuzfc7tvp9p2rv6qgww4lxejrdvnavnkugdslf6s8p79hz",
+        "counter_channel_id": "channel-5375",
+        "counter_port": "wasm.neutron1pcy54ah2hx3679wdpvcy8z2usqwaqeqxp37k7mvd4fvqahfcfsfszag2sn"
+      },
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-75",
+        "port": "wasm.sei1dzq5pg86035rpuzfc7tvp9p2rv6qgww4lxejrdvnavnkugdslf6s8p79hz",
+        "counter_channel_id": "channel-5376",
+        "counter_port": "wasm.neutron1pcy54ah2hx3679wdpvcy8z2usqwaqeqxp37k7mvd4fvqahfcfsfszag2sn"
+      },
+      {
+        "client_id": "07-tendermint-123",
+        "connection_id": "connection-157",
+        "channel_id": "channel-76",
+        "port": "wasm.sei1dzq5pg86035rpuzfc7tvp9p2rv6qgww4lxejrdvnavnkugdslf6s8p79hz",
+        "counter_channel_id": "channel-5377",
+        "counter_port": "wasm.neutron1pcy54ah2hx3679wdpvcy8z2usqwaqeqxp37k7mvd4fvqahfcfsfszag2sn"
+      }
+    ],
+    "connection-7": [
+      {
+        "client_id": "07-tendermint-13",
+        "connection_id": "connection-7",
+        "channel_id": "channel-5",
+        "port": "wasm.sei1gjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn",
+        "counter_channel_id": "channel-1",
+        "counter_port": "wasm.wormhole1wkwy0xh89ksdgj9hr347dyd2dw7zesmtrue6kfzyml4vdtz6e5ws2y050r"
+      }
+    ],
+    "connection-25": [
+      {
+        "client_id": "07-tendermint-35",
+        "connection_id": "connection-25",
+        "channel_id": "channel-17",
+        "port": "transfer",
+        "counter_channel_id": "channel-130",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-175": [
+      {
+        "client_id": "07-tendermint-141",
+        "connection_id": "connection-175",
+        "channel_id": "channel-79",
+        "port": "transfer",
+        "counter_channel_id": "channel-1",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-16": [
+      {
+        "client_id": "07-tendermint-27",
+        "connection_id": "connection-16",
+        "channel_id": "channel-15",
+        "port": "transfer",
+        "counter_channel_id": "channel-19",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-1": [
+      {
+        "client_id": "07-tendermint-3",
+        "connection_id": "connection-1",
+        "channel_id": "channel-1",
+        "port": "transfer",
+        "counter_channel_id": "channel-584",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-10": [
+      {
+        "client_id": "07-tendermint-17",
+        "connection_id": "connection-10",
+        "channel_id": "channel-10",
+        "port": "transfer",
+        "counter_channel_id": "channel-52",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-160": [
+      {
+        "client_id": "07-tendermint-135",
+        "connection_id": "connection-160",
+        "channel_id": "channel-78",
+        "port": "transfer",
+        "counter_channel_id": "channel-3",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-104": [
+      {
+        "client_id": "07-tendermint-64",
+        "connection_id": "connection-104",
+        "channel_id": "channel-54",
+        "port": "transfer",
+        "counter_channel_id": "channel-180",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-64",
+        "connection_id": "connection-104",
+        "channel_id": "channel-55",
+        "port": "transfer",
+        "counter_channel_id": "channel-180",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-144": [
+      {
+        "client_id": "07-tendermint-106",
+        "connection_id": "connection-144",
+        "channel_id": "channel-57",
+        "port": "transfer",
+        "counter_channel_id": "channel-42",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-106",
+        "connection_id": "connection-144",
+        "channel_id": "channel-58",
+        "port": "transfer",
+        "counter_channel_id": "channel-43",
+        "counter_port": "transfer"
+      },
+      {
+        "client_id": "07-tendermint-106",
+        "connection_id": "connection-144",
+        "channel_id": "channel-60",
+        "port": "wasm.sei1n5tpvlpt68metz4etankcw6t76nrg57tyglvky8swgd7wx3w42wquj2qqe",
+        "counter_channel_id": "",
+        "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+      },
+      {
+        "client_id": "07-tendermint-106",
+        "connection_id": "connection-144",
+        "channel_id": "channel-61",
+        "port": "wasm.sei1n5tpvlpt68metz4etankcw6t76nrg57tyglvky8swgd7wx3w42wquj2qqe",
+        "counter_channel_id": "",
+        "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+      },
+      {
+        "client_id": "07-tendermint-106",
+        "connection_id": "connection-144",
+        "channel_id": "channel-59",
+        "port": "wasm.sei1vxlzhn6qvf95syha2tgr0ct23sk5359s2vqzylgthuyy7kd7ql5qcxa4r0",
+        "counter_channel_id": "channel-44",
+        "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+      }
+    ],
+    "connection-79": [
+      {
+        "client_id": "07-tendermint-47",
+        "connection_id": "connection-79",
+        "channel_id": "channel-47",
+        "port": "transfer",
+        "counter_channel_id": "channel-26",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-9": [
+      {
+        "client_id": "07-tendermint-15",
+        "connection_id": "connection-9",
+        "channel_id": "channel-7",
+        "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+        "counter_channel_id": "channel-170",
+        "counter_port": "wasm.terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660"
+      }
+    ],
+    "connection-153": [
+      {
+        "client_id": "07-tendermint-109",
+        "connection_id": "connection-153",
+        "channel_id": "channel-64",
+        "port": "transfer",
+        "counter_channel_id": "channel-12",
+        "counter_port": "transfer"
+      }
+    ]
+  },
+  "channels": {
+    "channel-36": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-36",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-48": {
+      "client_id": "07-tendermint-60",
+      "connection_id": "connection-89",
+      "channel_id": "channel-48",
+      "port": "transfer",
+      "counter_channel_id": "channel-178",
+      "counter_port": "transfer"
+    },
+    "channel-24": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-24",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-68": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-68",
+      "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+      "counter_channel_id": "channel-2108",
+      "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+    },
+    "channel-44": {
+      "client_id": "07-tendermint-45",
+      "connection_id": "connection-77",
+      "channel_id": "channel-44",
+      "port": "transfer",
+      "counter_channel_id": "channel-38",
+      "counter_port": "transfer"
+    },
+    "channel-28": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-28",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-71": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-71",
+      "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+      "counter_channel_id": "channel-2110",
+      "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+    },
+    "channel-1": {
+      "client_id": "07-tendermint-3",
+      "connection_id": "connection-1",
+      "channel_id": "channel-1",
+      "port": "transfer",
+      "counter_channel_id": "channel-584",
+      "counter_port": "transfer"
+    },
+    "channel-30": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-30",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-43": {
+      "client_id": "07-tendermint-44",
+      "connection_id": "connection-75",
+      "channel_id": "channel-43",
+      "port": "transfer",
+      "counter_channel_id": "channel-70",
+      "counter_port": "transfer"
+    },
+    "channel-18": {
+      "client_id": "07-tendermint-38",
+      "connection_id": "connection-33",
+      "channel_id": "channel-18",
+      "port": "transfer",
+      "counter_channel_id": "channel-132",
+      "counter_port": "transfer"
+    },
+    "channel-46": {
+      "client_id": "07-tendermint-46",
+      "connection_id": "connection-78",
+      "channel_id": "channel-46",
+      "port": "transfer",
+      "counter_channel_id": "channel-23",
+      "counter_port": "transfer"
+    },
+    "channel-49": {
+      "client_id": "07-tendermint-60",
+      "connection_id": "connection-89",
+      "channel_id": "channel-49",
+      "port": "transfer",
+      "counter_channel_id": "channel-178",
+      "counter_port": "transfer"
+    },
+    "channel-15": {
+      "client_id": "07-tendermint-27",
+      "connection_id": "connection-16",
+      "channel_id": "channel-15",
+      "port": "transfer",
+      "counter_channel_id": "channel-19",
+      "counter_port": "transfer"
+    },
+    "channel-58": {
+      "client_id": "07-tendermint-106",
+      "connection_id": "connection-144",
+      "channel_id": "channel-58",
+      "port": "transfer",
+      "counter_channel_id": "channel-43",
+      "counter_port": "transfer"
+    },
+    "channel-22": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-22",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-41": {
+      "client_id": "07-tendermint-40",
+      "connection_id": "connection-39",
+      "channel_id": "channel-41",
+      "port": "transfer",
+      "counter_channel_id": "channel-29",
+      "counter_port": "transfer"
+    },
+    "channel-20": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-20",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-79": {
+      "client_id": "07-tendermint-141",
+      "connection_id": "connection-175",
+      "channel_id": "channel-79",
+      "port": "transfer",
+      "counter_channel_id": "channel-1",
+      "counter_port": "transfer"
+    },
+    "channel-11": {
+      "client_id": "07-tendermint-18",
+      "connection_id": "connection-11",
+      "channel_id": "channel-11",
+      "port": "transfer",
+      "counter_channel_id": "channel-149",
+      "counter_port": "transfer"
+    },
+    "channel-53": {
+      "client_id": "07-tendermint-60",
+      "connection_id": "connection-89",
+      "channel_id": "channel-53",
+      "port": "transfer",
+      "counter_channel_id": "channel-179",
+      "counter_port": "transfer"
+    },
+    "channel-34": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-34",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-54": {
+      "client_id": "07-tendermint-64",
+      "connection_id": "connection-104",
+      "channel_id": "channel-54",
+      "port": "transfer",
+      "counter_channel_id": "channel-180",
+      "counter_port": "transfer"
+    },
+    "channel-42": {
+      "client_id": "07-tendermint-40",
+      "connection_id": "connection-39",
+      "channel_id": "channel-42",
+      "port": "transfer",
+      "counter_channel_id": "channel-29",
+      "counter_port": "transfer"
+    },
+    "channel-40": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-40",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-244",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-50": {
+      "client_id": "07-tendermint-60",
+      "connection_id": "connection-89",
+      "channel_id": "channel-50",
+      "port": "transfer",
+      "counter_channel_id": "channel-179",
+      "counter_port": "transfer"
+    },
+    "channel-19": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-19",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-21": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-21",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-26": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-26",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-9": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-9",
+      "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+      "counter_channel_id": "channel-172",
+      "counter_port": "wasm.terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660"
+    },
+    "channel-76": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-76",
+      "port": "wasm.sei1dzq5pg86035rpuzfc7tvp9p2rv6qgww4lxejrdvnavnkugdslf6s8p79hz",
+      "counter_channel_id": "channel-5377",
+      "counter_port": "wasm.neutron1pcy54ah2hx3679wdpvcy8z2usqwaqeqxp37k7mvd4fvqahfcfsfszag2sn"
+    },
+    "channel-63": {
+      "client_id": "07-tendermint-106",
+      "connection_id": "connection-145",
+      "channel_id": "channel-63",
+      "port": "wasm.sei1n5tpvlpt68metz4etankcw6t76nrg57tyglvky8swgd7wx3w42wquj2qqe",
+      "counter_channel_id": "",
+      "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+    },
+    "channel-0": {
+      "client_id": "07-tendermint-2",
+      "connection_id": "connection-0",
+      "channel_id": "channel-0",
+      "port": "transfer",
+      "counter_channel_id": "channel-782",
+      "counter_port": "transfer"
+    },
+    "channel-31": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-31",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-77": {
+      "client_id": "07-tendermint-137",
+      "connection_id": "connection-159",
+      "channel_id": "channel-77",
+      "port": "transfer",
+      "counter_channel_id": "channel-2",
+      "counter_port": "transfer"
+    },
+    "channel-72": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-72",
+      "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+      "counter_channel_id": "channel-2110",
+      "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+    },
+    "channel-29": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-29",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-60": {
+      "client_id": "07-tendermint-106",
+      "connection_id": "connection-144",
+      "channel_id": "channel-60",
+      "port": "wasm.sei1n5tpvlpt68metz4etankcw6t76nrg57tyglvky8swgd7wx3w42wquj2qqe",
+      "counter_channel_id": "",
+      "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+    },
+    "channel-2": {
+      "client_id": "07-tendermint-8",
+      "connection_id": "connection-2",
+      "channel_id": "channel-2",
+      "port": "transfer",
+      "counter_channel_id": "channel-103",
+      "counter_port": "transfer"
+    },
+    "channel-6": {
+      "client_id": "07-tendermint-14",
+      "connection_id": "connection-8",
+      "channel_id": "channel-6",
+      "port": "transfer",
+      "counter_channel_id": "channel-169",
+      "counter_port": "wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce"
+    },
+    "channel-4": {
+      "client_id": "07-tendermint-12",
+      "connection_id": "connection-6",
+      "channel_id": "channel-4",
+      "port": "wasm.sei1gjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn",
+      "counter_channel_id": "channel-0",
+      "counter_port": "wasm.wormhole1wkwy0xh89ksdgj9hr347dyd2dw7zesmtrue6kfzyml4vdtz6e5ws2y050r"
+    },
+    "channel-32": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-32",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-75": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-75",
+      "port": "wasm.sei1dzq5pg86035rpuzfc7tvp9p2rv6qgww4lxejrdvnavnkugdslf6s8p79hz",
+      "counter_channel_id": "channel-5376",
+      "counter_port": "wasm.neutron1pcy54ah2hx3679wdpvcy8z2usqwaqeqxp37k7mvd4fvqahfcfsfszag2sn"
+    },
+    "channel-65": {
+      "client_id": "07-tendermint-120",
+      "connection_id": "connection-155",
+      "channel_id": "channel-65",
+      "port": "transfer",
+      "counter_channel_id": "channel-124",
+      "counter_port": "transfer"
+    },
+    "channel-39": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-39",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-45": {
+      "client_id": "07-tendermint-45",
+      "connection_id": "connection-77",
+      "channel_id": "channel-45",
+      "port": "transfer",
+      "counter_channel_id": "channel-39",
+      "counter_port": "transfer"
+    },
+    "channel-66": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-66",
+      "port": "transfer",
+      "counter_channel_id": "channel-2016",
+      "counter_port": "transfer"
+    },
+    "channel-52": {
+      "client_id": "07-tendermint-60",
+      "connection_id": "connection-89",
+      "channel_id": "channel-52",
+      "port": "transfer",
+      "counter_channel_id": "channel-179",
+      "counter_port": "transfer"
+    },
+    "channel-12": {
+      "client_id": "07-tendermint-18",
+      "connection_id": "connection-11",
+      "channel_id": "channel-12",
+      "port": "transfer",
+      "counter_channel_id": "channel-149",
+      "counter_port": "transfer"
+    },
+    "channel-16": {
+      "client_id": "07-tendermint-34",
+      "connection_id": "connection-24",
+      "channel_id": "channel-16",
+      "port": "transfer",
+      "counter_channel_id": "channel-103",
+      "counter_port": "transfer"
+    },
+    "channel-23": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-23",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-51": {
+      "client_id": "07-tendermint-60",
+      "connection_id": "connection-89",
+      "channel_id": "channel-51",
+      "port": "transfer",
+      "counter_channel_id": "channel-178",
+      "counter_port": "transfer"
+    },
+    "channel-14": {
+      "client_id": "07-tendermint-22",
+      "connection_id": "connection-13",
+      "channel_id": "channel-14",
+      "port": "transfer",
+      "counter_channel_id": "channel-57",
+      "counter_port": "transfer"
+    },
+    "channel-69": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-69",
+      "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+      "counter_channel_id": "channel-2109",
+      "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+    },
+    "channel-33": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-33",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-27": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-27",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-67": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-67",
+      "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+      "counter_channel_id": "channel-2107",
+      "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+    },
+    "channel-57": {
+      "client_id": "07-tendermint-106",
+      "connection_id": "connection-144",
+      "channel_id": "channel-57",
+      "port": "transfer",
+      "counter_channel_id": "channel-42",
+      "counter_port": "transfer"
+    },
+    "channel-8": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-8",
+      "port": "transfer",
+      "counter_channel_id": "channel-171",
+      "counter_port": "wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce"
+    },
+    "channel-25": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-25",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "channel-242",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-74": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-74",
+      "port": "wasm.sei1dzq5pg86035rpuzfc7tvp9p2rv6qgww4lxejrdvnavnkugdslf6s8p79hz",
+      "counter_channel_id": "channel-5375",
+      "counter_port": "wasm.neutron1pcy54ah2hx3679wdpvcy8z2usqwaqeqxp37k7mvd4fvqahfcfsfszag2sn"
+    },
+    "channel-64": {
+      "client_id": "07-tendermint-109",
+      "connection_id": "connection-153",
+      "channel_id": "channel-64",
+      "port": "transfer",
+      "counter_channel_id": "channel-12",
+      "counter_port": "transfer"
+    },
+    "channel-35": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-35",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-7": {
+      "client_id": "07-tendermint-15",
+      "connection_id": "connection-9",
+      "channel_id": "channel-7",
+      "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+      "counter_channel_id": "channel-170",
+      "counter_port": "wasm.terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660"
+    },
+    "channel-73": {
+      "client_id": "07-tendermint-126",
+      "connection_id": "connection-158",
+      "channel_id": "channel-73",
+      "port": "transfer",
+      "counter_channel_id": "channel-47",
+      "counter_port": "transfer"
+    },
+    "channel-59": {
+      "client_id": "07-tendermint-106",
+      "connection_id": "connection-144",
+      "channel_id": "channel-59",
+      "port": "wasm.sei1vxlzhn6qvf95syha2tgr0ct23sk5359s2vqzylgthuyy7kd7ql5qcxa4r0",
+      "counter_channel_id": "channel-44",
+      "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+    },
+    "channel-38": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-38",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-10": {
+      "client_id": "07-tendermint-17",
+      "connection_id": "connection-10",
+      "channel_id": "channel-10",
+      "port": "transfer",
+      "counter_channel_id": "channel-52",
+      "counter_port": "transfer"
+    },
+    "channel-61": {
+      "client_id": "07-tendermint-106",
+      "connection_id": "connection-144",
+      "channel_id": "channel-61",
+      "port": "wasm.sei1n5tpvlpt68metz4etankcw6t76nrg57tyglvky8swgd7wx3w42wquj2qqe",
+      "counter_channel_id": "",
+      "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+    },
+    "channel-13": {
+      "client_id": "07-tendermint-21",
+      "connection_id": "connection-12",
+      "channel_id": "channel-13",
+      "port": "transfer",
+      "counter_channel_id": "channel-59",
+      "counter_port": "transfer"
+    },
+    "channel-47": {
+      "client_id": "07-tendermint-47",
+      "connection_id": "connection-79",
+      "channel_id": "channel-47",
+      "port": "transfer",
+      "counter_channel_id": "channel-26",
+      "counter_port": "transfer"
+    },
+    "channel-5": {
+      "client_id": "07-tendermint-13",
+      "connection_id": "connection-7",
+      "channel_id": "channel-5",
+      "port": "wasm.sei1gjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn",
+      "counter_channel_id": "channel-1",
+      "counter_port": "wasm.wormhole1wkwy0xh89ksdgj9hr347dyd2dw7zesmtrue6kfzyml4vdtz6e5ws2y050r"
+    },
+    "channel-55": {
+      "client_id": "07-tendermint-64",
+      "connection_id": "connection-104",
+      "channel_id": "channel-55",
+      "port": "transfer",
+      "counter_channel_id": "channel-180",
+      "counter_port": "transfer"
+    },
+    "channel-62": {
+      "client_id": "07-tendermint-106",
+      "connection_id": "connection-145",
+      "channel_id": "channel-62",
+      "port": "wasm.sei1n5tpvlpt68metz4etankcw6t76nrg57tyglvky8swgd7wx3w42wquj2qqe",
+      "counter_channel_id": "channel-45",
+      "counter_port": "wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp"
+    },
+    "channel-56": {
+      "client_id": "07-tendermint-66",
+      "connection_id": "connection-112",
+      "channel_id": "channel-56",
+      "port": "transfer",
+      "counter_channel_id": "channel-77",
+      "counter_port": "transfer"
+    },
+    "channel-37": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-37",
+      "port": "wasm.sei1rez0vdaxumfpsy0a2yukqs6pxglhppvcp58jk52atmhxfrhj2xlq85ahum",
+      "counter_channel_id": "",
+      "counter_port": "wasm.terra1ll39uuwuwsce2gzdsf5jnyzdtr49aq93yw7y7ykd333ck7w8kzhqtvhrdq"
+    },
+    "channel-3": {
+      "client_id": "07-tendermint-10",
+      "connection_id": "connection-4",
+      "channel_id": "channel-3",
+      "port": "transfer",
+      "counter_channel_id": "channel-158",
+      "counter_port": "transfer"
+    },
+    "channel-17": {
+      "client_id": "07-tendermint-35",
+      "connection_id": "connection-25",
+      "channel_id": "channel-17",
+      "port": "transfer",
+      "counter_channel_id": "channel-130",
+      "counter_port": "transfer"
+    },
+    "channel-70": {
+      "client_id": "07-tendermint-123",
+      "connection_id": "connection-157",
+      "channel_id": "channel-70",
+      "port": "wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
+      "counter_channel_id": "channel-2110",
+      "counter_port": "wasm.neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6"
+    },
+    "channel-78": {
+      "client_id": "07-tendermint-135",
+      "connection_id": "connection-160",
+      "channel_id": "channel-78",
+      "port": "transfer",
+      "counter_channel_id": "channel-3",
+      "counter_port": "transfer"
+    }
+  }
+}
