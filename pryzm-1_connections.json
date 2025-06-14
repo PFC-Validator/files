@@ -1,0 +1,852 @@
+{
+  "chain": "pryzm-1",
+  "clients": {
+    "07-tendermint-7": "axelar-dojo-1",
+    "07-tendermint-8": "stride-1",
+    "07-tendermint-2": "osmosis-1",
+    "07-tendermint-1": "injective-1",
+    "07-tendermint-10": "celestia",
+    "07-tendermint-13": "celestia",
+    "07-tendermint-12": "celestia",
+    "07-tendermint-3": "celestia",
+    "07-tendermint-9": "dydx-mainnet-1",
+    "07-tendermint-5": "noble-1",
+    "07-tendermint-14": "dydx-mainnet-1",
+    "07-tendermint-4": "phoenix-1",
+    "07-tendermint-6": "neutron-1",
+    "07-tendermint-0": "cosmoshub-4",
+    "07-tendermint-11": "stride-1"
+  },
+  "connection_chain_client_pair": {
+    "connection-7": {
+      "chain": "axelar-dojo-1",
+      "client": "07-tendermint-7"
+    },
+    "connection-6": {
+      "chain": "neutron-1",
+      "client": "07-tendermint-6"
+    },
+    "connection-0": {
+      "chain": "cosmoshub-4",
+      "client": "07-tendermint-0"
+    },
+    "connection-3": {
+      "chain": "celestia",
+      "client": "07-tendermint-3"
+    },
+    "connection-4": {
+      "chain": "phoenix-1",
+      "client": "07-tendermint-4"
+    },
+    "connection-9": {
+      "chain": "dydx-mainnet-1",
+      "client": "07-tendermint-9"
+    },
+    "connection-5": {
+      "chain": "noble-1",
+      "client": "07-tendermint-5"
+    },
+    "connection-2": {
+      "chain": "osmosis-1",
+      "client": "07-tendermint-2"
+    },
+    "connection-1": {
+      "chain": "injective-1",
+      "client": "07-tendermint-1"
+    },
+    "connection-8": {
+      "chain": "stride-1",
+      "client": "07-tendermint-8"
+    }
+  },
+  "chain_client_connection_pair": {
+    "stride-1": [
+      {
+        "connection": "connection-8",
+        "client": "07-tendermint-8"
+      }
+    ],
+    "phoenix-1": [
+      {
+        "connection": "connection-4",
+        "client": "07-tendermint-4"
+      }
+    ],
+    "osmosis-1": [
+      {
+        "connection": "connection-2",
+        "client": "07-tendermint-2"
+      }
+    ],
+    "injective-1": [
+      {
+        "connection": "connection-1",
+        "client": "07-tendermint-1"
+      }
+    ],
+    "neutron-1": [
+      {
+        "connection": "connection-6",
+        "client": "07-tendermint-6"
+      }
+    ],
+    "celestia": [
+      {
+        "connection": "connection-3",
+        "client": "07-tendermint-3"
+      }
+    ],
+    "cosmoshub-4": [
+      {
+        "connection": "connection-0",
+        "client": "07-tendermint-0"
+      }
+    ],
+    "dydx-mainnet-1": [
+      {
+        "connection": "connection-9",
+        "client": "07-tendermint-9"
+      }
+    ],
+    "axelar-dojo-1": [
+      {
+        "connection": "connection-7",
+        "client": "07-tendermint-7"
+      }
+    ],
+    "noble-1": [
+      {
+        "connection": "connection-5",
+        "client": "07-tendermint-5"
+      }
+    ]
+  },
+  "connection_channels": {
+    "connection-0": [
+      {
+        "client_id": "07-tendermint-0",
+        "connection_id": "connection-0",
+        "channel_id": "channel-20",
+        "port": "icacontroller-delegation-uatom",
+        "counter_channel_id": "channel-891",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-0",
+        "connection_id": "connection-0",
+        "channel_id": "channel-30",
+        "port": "icacontroller-delegation-uatom",
+        "counter_channel_id": "channel-1347",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-0",
+        "connection_id": "connection-0",
+        "channel_id": "channel-31",
+        "port": "icacontroller-delegation-uatom",
+        "counter_channel_id": "channel-1350",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-0",
+        "connection_id": "connection-0",
+        "channel_id": "channel-7",
+        "port": "icacontroller-delegation-uatom",
+        "counter_channel_id": "channel-862",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-0",
+        "connection_id": "connection-0",
+        "channel_id": "channel-8",
+        "port": "icacontroller-reward-uatom",
+        "counter_channel_id": "channel-863",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-0",
+        "connection_id": "connection-0",
+        "channel_id": "channel-9",
+        "port": "icacontroller-sweep-uatom",
+        "counter_channel_id": "channel-861",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-0",
+        "connection_id": "connection-0",
+        "channel_id": "channel-0",
+        "port": "transfer",
+        "counter_channel_id": "channel-859",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-9": [
+      {
+        "client_id": "07-tendermint-9",
+        "connection_id": "connection-9",
+        "channel_id": "channel-24",
+        "port": "transfer",
+        "counter_channel_id": "channel-71",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-5": [
+      {
+        "client_id": "07-tendermint-5",
+        "connection_id": "connection-5",
+        "channel_id": "channel-5",
+        "port": "transfer",
+        "counter_channel_id": "channel-79",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-3": [
+      {
+        "client_id": "07-tendermint-3",
+        "connection_id": "connection-3",
+        "channel_id": "channel-26",
+        "port": "icacontroller-delegation-utia",
+        "counter_channel_id": "channel-45",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-3",
+        "connection_id": "connection-3",
+        "channel_id": "channel-27",
+        "port": "icacontroller-reward-utia",
+        "counter_channel_id": "channel-46",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-3",
+        "connection_id": "connection-3",
+        "channel_id": "channel-28",
+        "port": "icacontroller-sweep-utia",
+        "counter_channel_id": "channel-47",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-3",
+        "connection_id": "connection-3",
+        "channel_id": "channel-3",
+        "port": "transfer",
+        "counter_channel_id": "channel-34",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-7": [
+      {
+        "client_id": "07-tendermint-7",
+        "connection_id": "connection-7",
+        "channel_id": "channel-13",
+        "port": "transfer",
+        "counter_channel_id": "channel-155",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-4": [
+      {
+        "client_id": "07-tendermint-4",
+        "connection_id": "connection-4",
+        "channel_id": "channel-17",
+        "port": "icacontroller-delegation-uluna",
+        "counter_channel_id": "channel-478",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-4",
+        "connection_id": "connection-4",
+        "channel_id": "channel-25",
+        "port": "icacontroller-delegation-uluna",
+        "counter_channel_id": "channel-526",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-4",
+        "connection_id": "connection-4",
+        "channel_id": "channel-18",
+        "port": "icacontroller-reward-uluna",
+        "counter_channel_id": "channel-479",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-4",
+        "connection_id": "connection-4",
+        "channel_id": "channel-19",
+        "port": "icacontroller-sweep-uluna",
+        "counter_channel_id": "channel-480",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-4",
+        "connection_id": "connection-4",
+        "channel_id": "channel-4",
+        "port": "transfer",
+        "counter_channel_id": "channel-473",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-2": [
+      {
+        "client_id": "07-tendermint-2",
+        "connection_id": "connection-2",
+        "channel_id": "channel-14",
+        "port": "icacontroller-delegation-uosmo",
+        "counter_channel_id": "channel-76803",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-2",
+        "connection_id": "connection-2",
+        "channel_id": "channel-21",
+        "port": "icacontroller-delegation-uosmo",
+        "counter_channel_id": "channel-79066",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-2",
+        "connection_id": "connection-2",
+        "channel_id": "channel-22",
+        "port": "icacontroller-delegation-uosmo",
+        "counter_channel_id": "channel-79080",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-2",
+        "connection_id": "connection-2",
+        "channel_id": "channel-29",
+        "port": "icacontroller-delegation-uosmo",
+        "counter_channel_id": "channel-101479",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-2",
+        "connection_id": "connection-2",
+        "channel_id": "channel-15",
+        "port": "icacontroller-reward-uosmo",
+        "counter_channel_id": "channel-76804",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-2",
+        "connection_id": "connection-2",
+        "channel_id": "channel-16",
+        "port": "icacontroller-sweep-uosmo",
+        "counter_channel_id": "channel-76805",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-2",
+        "connection_id": "connection-2",
+        "channel_id": "channel-2",
+        "port": "transfer",
+        "counter_channel_id": "channel-75755",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-1": [
+      {
+        "client_id": "07-tendermint-1",
+        "connection_id": "connection-1",
+        "channel_id": "channel-10",
+        "port": "icacontroller-delegation-inj",
+        "counter_channel_id": "channel-285",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-1",
+        "connection_id": "connection-1",
+        "channel_id": "channel-11",
+        "port": "icacontroller-reward-inj",
+        "counter_channel_id": "channel-286",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-1",
+        "connection_id": "connection-1",
+        "channel_id": "channel-12",
+        "port": "icacontroller-sweep-inj",
+        "counter_channel_id": "channel-287",
+        "counter_port": "icahost"
+      },
+      {
+        "client_id": "07-tendermint-1",
+        "connection_id": "connection-1",
+        "channel_id": "channel-1",
+        "port": "transfer",
+        "counter_channel_id": "channel-284",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-6": [
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-32",
+        "port": "icahost",
+        "counter_channel_id": "channel-7093",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-33",
+        "port": "icahost",
+        "counter_channel_id": "channel-7094",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-34",
+        "port": "icahost",
+        "counter_channel_id": "channel-7095",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-35",
+        "port": "icahost",
+        "counter_channel_id": "channel-7096",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-36",
+        "port": "icahost",
+        "counter_channel_id": "channel-7097",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-37",
+        "port": "icahost",
+        "counter_channel_id": "channel-7098",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-38",
+        "port": "icahost",
+        "counter_channel_id": "channel-7099",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-39",
+        "port": "icahost",
+        "counter_channel_id": "channel-7100",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-40",
+        "port": "icahost",
+        "counter_channel_id": "channel-7101",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-41",
+        "port": "icahost",
+        "counter_channel_id": "channel-7103",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-42",
+        "port": "icahost",
+        "counter_channel_id": "channel-7104",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-43",
+        "port": "icahost",
+        "counter_channel_id": "channel-7104",
+        "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+      },
+      {
+        "client_id": "07-tendermint-6",
+        "connection_id": "connection-6",
+        "channel_id": "channel-6",
+        "port": "transfer",
+        "counter_channel_id": "channel-4329",
+        "counter_port": "transfer"
+      }
+    ],
+    "connection-8": [
+      {
+        "client_id": "07-tendermint-8",
+        "connection_id": "connection-8",
+        "channel_id": "channel-23",
+        "port": "transfer",
+        "counter_channel_id": "channel-257",
+        "counter_port": "transfer"
+      }
+    ]
+  },
+  "channels": {
+    "channel-0": {
+      "client_id": "07-tendermint-0",
+      "connection_id": "connection-0",
+      "channel_id": "channel-0",
+      "port": "transfer",
+      "counter_channel_id": "channel-859",
+      "counter_port": "transfer"
+    },
+    "channel-23": {
+      "client_id": "07-tendermint-8",
+      "connection_id": "connection-8",
+      "channel_id": "channel-23",
+      "port": "transfer",
+      "counter_channel_id": "channel-257",
+      "counter_port": "transfer"
+    },
+    "channel-25": {
+      "client_id": "07-tendermint-4",
+      "connection_id": "connection-4",
+      "channel_id": "channel-25",
+      "port": "icacontroller-delegation-uluna",
+      "counter_channel_id": "channel-526",
+      "counter_port": "icahost"
+    },
+    "channel-32": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-32",
+      "port": "icahost",
+      "counter_channel_id": "channel-7093",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-42": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-42",
+      "port": "icahost",
+      "counter_channel_id": "channel-7104",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-9": {
+      "client_id": "07-tendermint-0",
+      "connection_id": "connection-0",
+      "channel_id": "channel-9",
+      "port": "icacontroller-sweep-uatom",
+      "counter_channel_id": "channel-861",
+      "counter_port": "icahost"
+    },
+    "channel-24": {
+      "client_id": "07-tendermint-9",
+      "connection_id": "connection-9",
+      "channel_id": "channel-24",
+      "port": "transfer",
+      "counter_channel_id": "channel-71",
+      "counter_port": "transfer"
+    },
+    "channel-2": {
+      "client_id": "07-tendermint-2",
+      "connection_id": "connection-2",
+      "channel_id": "channel-2",
+      "port": "transfer",
+      "counter_channel_id": "channel-75755",
+      "counter_port": "transfer"
+    },
+    "channel-33": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-33",
+      "port": "icahost",
+      "counter_channel_id": "channel-7094",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-27": {
+      "client_id": "07-tendermint-3",
+      "connection_id": "connection-3",
+      "channel_id": "channel-27",
+      "port": "icacontroller-reward-utia",
+      "counter_channel_id": "channel-46",
+      "counter_port": "icahost"
+    },
+    "channel-14": {
+      "client_id": "07-tendermint-2",
+      "connection_id": "connection-2",
+      "channel_id": "channel-14",
+      "port": "icacontroller-delegation-uosmo",
+      "counter_channel_id": "channel-76803",
+      "counter_port": "icahost"
+    },
+    "channel-22": {
+      "client_id": "07-tendermint-2",
+      "connection_id": "connection-2",
+      "channel_id": "channel-22",
+      "port": "icacontroller-delegation-uosmo",
+      "counter_channel_id": "channel-79080",
+      "counter_port": "icahost"
+    },
+    "channel-3": {
+      "client_id": "07-tendermint-3",
+      "connection_id": "connection-3",
+      "channel_id": "channel-3",
+      "port": "transfer",
+      "counter_channel_id": "channel-34",
+      "counter_port": "transfer"
+    },
+    "channel-12": {
+      "client_id": "07-tendermint-1",
+      "connection_id": "connection-1",
+      "channel_id": "channel-12",
+      "port": "icacontroller-sweep-inj",
+      "counter_channel_id": "channel-287",
+      "counter_port": "icahost"
+    },
+    "channel-36": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-36",
+      "port": "icahost",
+      "counter_channel_id": "channel-7097",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-31": {
+      "client_id": "07-tendermint-0",
+      "connection_id": "connection-0",
+      "channel_id": "channel-31",
+      "port": "icacontroller-delegation-uatom",
+      "counter_channel_id": "channel-1350",
+      "counter_port": "icahost"
+    },
+    "channel-16": {
+      "client_id": "07-tendermint-2",
+      "connection_id": "connection-2",
+      "channel_id": "channel-16",
+      "port": "icacontroller-sweep-uosmo",
+      "counter_channel_id": "channel-76805",
+      "counter_port": "icahost"
+    },
+    "channel-41": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-41",
+      "port": "icahost",
+      "counter_channel_id": "channel-7103",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-4": {
+      "client_id": "07-tendermint-4",
+      "connection_id": "connection-4",
+      "channel_id": "channel-4",
+      "port": "transfer",
+      "counter_channel_id": "channel-473",
+      "counter_port": "transfer"
+    },
+    "channel-35": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-35",
+      "port": "icahost",
+      "counter_channel_id": "channel-7096",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-38": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-38",
+      "port": "icahost",
+      "counter_channel_id": "channel-7099",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-20": {
+      "client_id": "07-tendermint-0",
+      "connection_id": "connection-0",
+      "channel_id": "channel-20",
+      "port": "icacontroller-delegation-uatom",
+      "counter_channel_id": "channel-891",
+      "counter_port": "icahost"
+    },
+    "channel-43": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-43",
+      "port": "icahost",
+      "counter_channel_id": "channel-7104",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-6": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-6",
+      "port": "transfer",
+      "counter_channel_id": "channel-4329",
+      "counter_port": "transfer"
+    },
+    "channel-18": {
+      "client_id": "07-tendermint-4",
+      "connection_id": "connection-4",
+      "channel_id": "channel-18",
+      "port": "icacontroller-reward-uluna",
+      "counter_channel_id": "channel-479",
+      "counter_port": "icahost"
+    },
+    "channel-10": {
+      "client_id": "07-tendermint-1",
+      "connection_id": "connection-1",
+      "channel_id": "channel-10",
+      "port": "icacontroller-delegation-inj",
+      "counter_channel_id": "channel-285",
+      "counter_port": "icahost"
+    },
+    "channel-30": {
+      "client_id": "07-tendermint-0",
+      "connection_id": "connection-0",
+      "channel_id": "channel-30",
+      "port": "icacontroller-delegation-uatom",
+      "counter_channel_id": "channel-1347",
+      "counter_port": "icahost"
+    },
+    "channel-1": {
+      "client_id": "07-tendermint-1",
+      "connection_id": "connection-1",
+      "channel_id": "channel-1",
+      "port": "transfer",
+      "counter_channel_id": "channel-284",
+      "counter_port": "transfer"
+    },
+    "channel-39": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-39",
+      "port": "icahost",
+      "counter_channel_id": "channel-7100",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-28": {
+      "client_id": "07-tendermint-3",
+      "connection_id": "connection-3",
+      "channel_id": "channel-28",
+      "port": "icacontroller-sweep-utia",
+      "counter_channel_id": "channel-47",
+      "counter_port": "icahost"
+    },
+    "channel-21": {
+      "client_id": "07-tendermint-2",
+      "connection_id": "connection-2",
+      "channel_id": "channel-21",
+      "port": "icacontroller-delegation-uosmo",
+      "counter_channel_id": "channel-79066",
+      "counter_port": "icahost"
+    },
+    "channel-5": {
+      "client_id": "07-tendermint-5",
+      "connection_id": "connection-5",
+      "channel_id": "channel-5",
+      "port": "transfer",
+      "counter_channel_id": "channel-79",
+      "counter_port": "transfer"
+    },
+    "channel-26": {
+      "client_id": "07-tendermint-3",
+      "connection_id": "connection-3",
+      "channel_id": "channel-26",
+      "port": "icacontroller-delegation-utia",
+      "counter_channel_id": "channel-45",
+      "counter_port": "icahost"
+    },
+    "channel-13": {
+      "client_id": "07-tendermint-7",
+      "connection_id": "connection-7",
+      "channel_id": "channel-13",
+      "port": "transfer",
+      "counter_channel_id": "channel-155",
+      "counter_port": "transfer"
+    },
+    "channel-17": {
+      "client_id": "07-tendermint-4",
+      "connection_id": "connection-4",
+      "channel_id": "channel-17",
+      "port": "icacontroller-delegation-uluna",
+      "counter_channel_id": "channel-478",
+      "counter_port": "icahost"
+    },
+    "channel-34": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-34",
+      "port": "icahost",
+      "counter_channel_id": "channel-7095",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-7": {
+      "client_id": "07-tendermint-0",
+      "connection_id": "connection-0",
+      "channel_id": "channel-7",
+      "port": "icacontroller-delegation-uatom",
+      "counter_channel_id": "channel-862",
+      "counter_port": "icahost"
+    },
+    "channel-37": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-37",
+      "port": "icahost",
+      "counter_channel_id": "channel-7098",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    },
+    "channel-29": {
+      "client_id": "07-tendermint-2",
+      "connection_id": "connection-2",
+      "channel_id": "channel-29",
+      "port": "icacontroller-delegation-uosmo",
+      "counter_channel_id": "channel-101479",
+      "counter_port": "icahost"
+    },
+    "channel-15": {
+      "client_id": "07-tendermint-2",
+      "connection_id": "connection-2",
+      "channel_id": "channel-15",
+      "port": "icacontroller-reward-uosmo",
+      "counter_channel_id": "channel-76804",
+      "counter_port": "icahost"
+    },
+    "channel-8": {
+      "client_id": "07-tendermint-0",
+      "connection_id": "connection-0",
+      "channel_id": "channel-8",
+      "port": "icacontroller-reward-uatom",
+      "counter_channel_id": "channel-863",
+      "counter_port": "icahost"
+    },
+    "channel-19": {
+      "client_id": "07-tendermint-4",
+      "connection_id": "connection-4",
+      "channel_id": "channel-19",
+      "port": "icacontroller-sweep-uluna",
+      "counter_channel_id": "channel-480",
+      "counter_port": "icahost"
+    },
+    "channel-11": {
+      "client_id": "07-tendermint-1",
+      "connection_id": "connection-1",
+      "channel_id": "channel-11",
+      "port": "icacontroller-reward-inj",
+      "counter_channel_id": "channel-286",
+      "counter_port": "icahost"
+    },
+    "channel-40": {
+      "client_id": "07-tendermint-6",
+      "connection_id": "connection-6",
+      "channel_id": "channel-40",
+      "port": "icahost",
+      "counter_channel_id": "channel-7101",
+      "counter_port": "icacontroller-neutron1w7f40hgfc505a2wnjsl5pg35yl8qpawv48w5yekax4xj2m43j09s5fa44f"
+    }
+  }
+}
